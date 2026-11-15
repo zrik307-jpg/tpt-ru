@@ -1,0 +1,422 @@
+# English<TAB>Russian. Key = exact English literal used in the source.
+Accelerator, speeds up nearby elements.	Ускоритель, разгоняет ближайшие элементы.
+Dissolves almost everything.	Растворяет почти всё.
+Anti-Matter, destroys a majority of particles.	Антиматерия, уничтожает большинство частиц.
+Anti-air. Very light gravity-defying dust. Burns cold instead of hot.	Антивоздух. Очень лёгкая пыль, летящая вверх. Горит холодом, а не жаром.
+Ray Emitter. Rays create points when they collide.	Излучатель лучей. В местах столкновения лучи создают точки.
+TNT, explodes all at once.	Тротил, взрывается весь сразу.
+Corrosive liquid. Rusts conductive solids, neutralizes acid.	Едкая жидкость. Ржавит проводящие твёрдые тела, нейтрализует кислоту.
+Breakable Clone.	Разрушаемый клон.
+Broken Coal. Heavy particles, burns slowly.	Битый уголь. Тяжёлые частицы, горит медленно.
+Broken Glass, heavy particles formed when glass breaks under pressure. Meltable. Bagels.	Битое стекло, тяжёлые частицы, образуются при разрушении стекла давлением. Плавится. Бублики.
+Vacuum, sucks in other particles and heats up.	Вакуум, засасывает другие частицы и нагревается.
+Bizarre... contradicts the normal state changes. Paints other elements with its deco color.	Странное... нарушает обычные фазовые переходы. Красит другие элементы своим цветом декора.
+Bizarre gas.	Странный газ.
+Bizarre solid.	Странное твёрдое тело.
+Breakable metal. Common conductive building material, can melt and break under pressure.	Разрушаемый металл. Распространённый проводящий строительный материал, плавится и ломается под давлением.
+Bomb. Explodes and destroys all surrounding particles when it touches something.	Бомба. При касании чего-либо взрывается и уничтожает все окружающие частицы.
+Boyle, variable pressure gas. Expands when heated.	Бойль, газ с переменным давлением. Расширяется при нагреве.
+Ray Point. Rays create points when they collide.	Точка луча. В местах столкновения лучи создают точки.
+Brick, breakable building material.	Кирпич, разрушаемый строительный материал.
+Broken electronics. Formed from EMP blasts, and when constantly sparked while under pressure, turns to EXOT.	Битая электроника. Образуется от ЭМИ-взрывов, а при постоянном искрении под давлением превращается в EXOT.
+Broken metal. Created when iron rusts or when metals break from pressure.	Битый металл. Образуется при ржавении железа или разрушении металлов давлением.
+Battery. Generates infinite electricity.	Батарея. Вырабатывает бесконечное электричество.
+Broken vibranium.	Битый вибраниум.
+Cold explosive, set off by anything cold.	Холодная взрывчатка, срабатывает от всего холодного.
+Caustic Gas, acts like ACID.	Едкий газ, действует как ACID.
+Carbonated water. Slowly releases CO2.	Газированная вода. Медленно выделяет CO2.
+Sub-zero flame.	Ледяное пламя.
+Clone. Duplicates any particles it touches.	Клон. Дублирует любые частицы, которых касается.
+Clay dust. Produces paste when mixed with water.	Глиняная пыль. С водой образует пасту.
+Concrete. Can stack on itself or ROCK, collapses with pressure.	Бетон. Может лежать на себе или на ROCK, под давлением обрушивается.
+Carbon Dioxide. Heavy gas, drifts downwards. Carbonates water and turns to dry ice when cold.	Углекислый газ. Тяжёлый газ, опускается вниз. Газирует воду, на холоде превращается в сухой лёд.
+Coal, Burns very slowly. Gets red when hot.	Уголь, горит очень медленно. При нагреве краснеет.
+Converter. Converts everything into whatever it first touches.	Конвертер. Превращает всё в то, чего коснулся первым.
+Particle Ray Emitter. Creates a beam of particles set by its ctype, with a range set by tmp.	Излучатель частиц. Создаёт поток частиц по своему ctype, дальность задаётся tmp.
+Ceramic. Gets stronger under pressure.	Керамика. Под давлением становится прочнее.
+Decelerator, slows down nearby elements.	Замедлитель, тормозит ближайшие элементы.
+Liquid diesel. Explodes under high pressure and temperatures.	Жидкое дизельное топливо. Взрывается при высоком давлении и температуре.
+More destructive Bomb, can break through virtually anything.	Более разрушительная бомба, пробивает практически что угодно.
+Deuterium oxide. Gets more concentrated when cold, explodes with neutrons or protons.	Тяжёлая вода. На холоде концентрируется, взрывается от нейтронов или протонов.
+Conducts with temperature-dependent delay. (use HEAT/COOL).	Проводит с задержкой, зависящей от температуры. (используйте HEAT/COOL).
+Generates damaging pressure and breaks any elements it hits.	Создаёт разрушительное давление и ломает любые элементы, которых касается.
+Diamond. Indestructible.	Алмаз. Неразрушим.
+Duplicator ray. Replicates a line of particles in front of it.	Луч-дубликатор. Копирует линию частиц перед собой.
+Dry Ice, formed when CO2 is cooled.	Сухой лёд, образуется при охлаждении CO2.
+Distilled water, does not conduct electricity.	Дистиллированная вода, не проводит электричество.
+Detector, creates a spark when something with its ctype is nearby.	Детектор, создаёт искру, когда рядом есть что-то с его ctype.
+Very light dust. Flammable.	Очень лёгкая пыль. Горючая.
+Dead Yeast.	Мёртвые дрожжи.
+A failed shared velocity test.	Неудавшийся тест общей скорости.
+Electrons. Sparks electronics, reacts with NEUT and WATR.	Электроны. Зажигают электронику, реагируют с NEUT и WATR.
+Sparks. Formed by explosions.	Искры. Образуются при взрывах.
+Electromagnetic pulse. Breaks activated electronics.	Электромагнитный импульс. Ломает включённую электронику.
+Electrode. Creates plasma arcs with electricity. (Use sparingly)	Электрод. Создаёт плазменные дуги при подаче тока. (Использовать умеренно)
+Exotic matter. Explodes with excess exposure to electrons. Has many other odd reactions.	Экзотическая материя. Взрывается при избытке электронов. Имеет много других странных реакций.
+Fighter. Tries to kill stickmen. You must first give it an element to kill him with.	Боец. Пытается убить стикменов. Сначала дайте ему элемент, которым он будет убивать.
+Filter. Changes color of PHOT and BIZR. Color depends on temperature.	Фильтр. Меняет цвет PHOT и BIZR. Цвет зависит от температуры.
+Ignites flammable materials. Heats air.	Поджигает горючие материалы. Нагревает воздух.
+Fireworks! Colorful, set off by fire.	Фейерверк! Разноцветный, поджигается огнём.
+Fog, created when an electric current is passed through RIME.	Туман, образуется при пропускании электрического тока через RIME.
+Force Emitter. Pushes or pulls objects based on its temperature. Use like ARAY.	Излучатель силы. Толкает или тянет объекты в зависимости от температуры. Используется как ARAY.
+Frame, can be used with pistons to push many particles.	Рама, с поршнями двигает много частиц сразу.
+Freeze water. Hybrid liquid formed when Freeze powder melts.	Замороженная вода. Гибридная жидкость, образуется при плавлении замораживающего порошка.
+Freeze powder. When melted, forms ice that always cools. Spreads with regular water.	Замораживающий порошок. При плавлении образует лёд, который всегда охлаждает. Распространяется с обычной водой.
+Fuse Powder. Burns slowly like FUSE.	Порошок-запал. Горит медленно, как FUSE.
+Burns slowly. Ignites at very high temperatures or when sparked.	Горит медленно. Загорается при очень высоких температурах или от искры.
+Original version of fireworks, activated by heat/neutrons.	Первая версия фейерверка, активируется теплом или нейтронами.
+Diffuses quickly and is flammable. Liquefies into OIL under pressure.	Быстро рассеивается и горюч. Под давлением сжижается в OIL.
+Gravity bomb. Sticks to the first object it touches then produces a strong gravity push.	Гравитационная бомба. Прилипает к первому объекту и создаёт сильный гравитационный толчок.
+A liquid with variable viscosity and heat conductivity. Absorbs water.	Жидкость с переменной вязкостью и теплопроводностью. Впитывает воду.
+Glass. Meltable. Shatters under pressure, and refracts photons.	Стекло. Плавится. Разбивается под давлением, преломляет фотоны.
+Glow, Glows under pressure.	Свечение, светится под давлением.
+Corrosion resistant metal, will reverse corrosion of iron. Excellent conductor.	Коррозионно-стойкий металл, обращает ржавление железа вспять. Отличный проводник.
+Deforms and disappears under pressure.	Деформируется и исчезает под давлением.
+Gravity pump. Changes gravity to its temp when activated. (use HEAT/COOL)	Гравитационный насос. При включении меняет гравитацию на свою температуру. (используйте HEAT/COOL)
+Very light dust. Changes colour based on velocity.	Очень лёгкая пыль. Меняет цвет в зависимости от скорости.
+Gravitons. Create Newtonian Gravity.	Гравитоны. Создают ньютоновскую гравитацию.
+Gunpowder. Light dust, explodes on contact with fire or spark.	Порох. Лёгкая пыль, взрывается от огня или искры.
+Hydrogen. Combusts with OXYG to make WATR. Undergoes fusion at high temperature and pressure.	Водород. Горит с OXYG, образуя WATR. При высокой температуре и давлении вступает в термоядерный синтез.
+Rapid heat conductor.	Быстрый проводник тепла.
+Heat switch. Conducts heat only when activated.	Тепловой выключатель. Проводит тепло только при включении.
+Crushes under pressure. Cools down air.	Крошится под давлением. Охлаждает воздух.
+Ignition cord. Burns slowly with fire and sparks.	Зажигательный шнур. Горит медленно от огня и искр.
+Insulator. Blocks heat, electricity, and radiation.	Изолятор. Блокирует тепло, электричество и излучение.
+Instantly conducts, PSCN to charge, NSCN to take.	Проводит мгновенно, PSCN заряжает, NSCN забирает.
+Invisible under pressure, allowing particles through.	Невидим под давлением, пропускает частицы.
+Insulated wire. Only conducts to PSCN, NSCN, WIFI, and SWCH.	Изолированный провод. Проводит только к PSCN, NSCN, WIFI и SWCH.
+Rusts with salt, can be used for electrolysis of WATR.	Ржавеет от соли, годится для электролиза WATR.
+Isotope-Z. Radioactive liquid, decays into photons when touching PHOT or under negative pressure.	Изотоп-Z. Радиоактивная жидкость, распадается на фотоны при контакте с PHOT или при отрицательном давлении.
+Solid form of ISOZ, slowly decays into PHOT.	Твёрдая форма ISOZ, медленно распадается на PHOT.
+Molten lava. Ignites flammable materials. Generated when metals and other materials melt, solidifies when cold.	Расплавленная лава. Поджигает горючие материалы. Образуется при плавлении металлов и других материалов, застывает на холоде.
+Liquid Crystal. Changes colour when charged. (PSCN Charges, NSCN Discharges)	Жидкий кристалл. Меняет цвет при заряде. (PSCN заряжает, NSCN разряжает)
+Linear detector. Scans in 8 directions for particles with its ctype and creates a spark on the opposite side.	Линейный детектор. Сканирует 8 направлений на частицы со своим ctype и создаёт искру с противоположной стороны.
+Game Of Life! B3/S23	Игра «Жизнь»! B3/S23
+Lightning. Change the brush size to set the size of the lightning.	Молния. Размер молнии задаётся размером кисти.
+Lithium. Reactive element that explodes on contact with water.	Литий. Реактивный элемент, взрывается при контакте с водой.
+Liquid Nitrogen. Very cold, disappears whenever it touches anything warmer.	Жидкий азот. Очень холодный, исчезает при касании чего-либо теплее.
+Liquid Oxygen. Very cold. Reacts with fire.	Жидкий кислород. Очень холодный. Реагирует с огнём.
+Lolz	Лолз
+Love...	Любовь...
+Liquid Rubidium.	Жидкий рубидий.
+Life sensor, creates a spark when there's a nearby particle with a life higher than its temperature.	Датчик жизни, создаёт искру, когда рядом есть частица с жизнью выше его температуры.
+Mercury. Volume changes with temperature, Conductive.	Ртуть. Объём меняется с температурой, проводит ток.
+Metal, the basic conductor. Meltable.	Металл, основной проводник. Плавится.
+Steam Train.	Паровоз.
+Liquid Wax. Hardens into WAX at 45 degrees.	Жидкий воск. Затвердевает в WAX при 45 градусах.
+Black hole, sucks in particles using gravity. (Requires Newtonian gravity)	Чёрная дыра, засасывает частицы гравитацией. (Требуется ньютоновская гравитация)
+Noble Gas. Ionizes into plasma when sparked. Diffuses.	Благородный газ. Ионизируется в плазму от искры. Рассеивается.
+Neutrons. Interact with matter in odd ways.	Нейтроны. Странно взаимодействуют с веществом.
+Nitrogen Ice. Very cold, will melt into LN2 when heated only slightly.	Азотный лёд. Очень холодный, тает в LN2 при малейшем нагреве.
+Nitroglycerin. Pressure sensitive explosive. Mix with CLST to make TNT.	Нитроглицерин. Взрывчатка, чувствительная к давлению. Смешайте с CLST, чтобы получить тротил.
+Erases particles.	Стирает частицы.
+N-Type Silicon, Will not transfer current to P-Type Silicon. Disables powered materials.	Кремний N-типа, не передаёт ток кремнию P-типа. Отключает питаемые материалы.
+NTC Thermistor. Conducts with PSCN and NSCN, but only when heated above 100C.	NTC-термистор. Проводит с PSCN и NSCN, но только при нагреве выше 100C.
+White hole, pushes away other particles with gravity. (Requires Newtonian gravity)	Белая дыра, отталкивает частицы гравитацией. (Требуется ньютоновская гравитация)
+Oxygen gas. Ignites easily.	Кислород. Легко воспламеняется.
+Flammable, turns into GAS at low pressure or high temperature.	Горюча, превращается в GAS при низком давлении или высокой температуре.
+Powered breakable clone.	Питаемый разрушаемый клон.
+Powered clone. When activated, duplicates any particles it touches.	Питаемый клон. При включении дублирует любые частицы, которых касается.
+Photons. Refract through glass, and different elements change its color. Can ignite flammable materials.	Фотоны. Преломляются в стекле, разные элементы меняют их цвет. Могут поджигать горючие материалы.
+PIPE, moves particles around. Once the BRCK generates, erase some for the exit. Then the PIPE generates and is usable.	Труба, перемещает частицы. Когда сгенерируется BRCK, сотрите часть для выхода. Тогда труба сгенерируется и будет работать.
+Solid pressure sensitive explosive.	Твёрдая взрывчатка, чувствительная к давлению.
+Plant, drinks water and grows.	Растение, пьёт воду и растёт.
+Plasma, extremely hot.	Плазма, чрезвычайно горячая.
+Plutonium. Heavy, fissile particles. Generates neutrons under pressure.	Плутоний. Тяжёлые делящиеся частицы. Создаёт нейтроны под давлением.
+Polonium, highly radioactive. Decays into NEUT and heats up.	Полоний, сильно радиоактивен. Распадается на NEUT и нагревается.
+Powered version of PIPE, use PSCN/NSCN to Activate/Deactivate.	Питаемая версия PIPE, PSCN/NSCN включает/выключает.
+Powdered quartz, broken form of QRTZ.	Кварцевый порошок, битая форма QRTZ.
+Protons. Transfer heat to materials, and remove sparks.	Протоны. Передают тепло материалам и снимают искры.
+Portal IN. Particles go in here. Also has temperature dependent channels. (same as WIFI)	Портал-ВХОД. Частицы входят сюда. Также имеет температурные каналы. (как у WIFI)
+Portal OUT. Particles come out here. Also has temperature dependent channels. (same as WIFI)	Портал-ВЫХОД. Частицы выходят отсюда. Также имеет температурные каналы. (как у WIFI)
+P-Type Silicon, Will transfer current to any conductor. Enables powered materials.	Кремний P-типа, передаёт ток любому проводнику. Включает питаемые материалы.
+Pressure sensor, creates a spark when the pressure is greater than its temperature.	Датчик давления, создаёт искру, когда давление выше его температуры.
+Colloid, Hardens under pressure.	Коллоид, твердеет под давлением.
+Piston, pushes particles. PSCN extends, NSCN retracts	Поршень, толкает частицы. PSCN выдвигает, NSCN втягивает.
+Solid form of PSTE.	Твёрдая форма PSTE.
+PTC Thermistor. Conducts with PSCN and NSCN, but only when cooled below 100C.	PTC-термистор. Проводит с PSCN и NSCN, но только при охлаждении ниже 100C.
+Platinum. Catalyzes certain reactions.	Платина. Катализирует некоторые реакции.
+Pressure pump. Changes pressure to its temp when activated. (use HEAT/COOL).	Насос давления. При включении меняет давление на свою температуру. (используйте HEAT/COOL).
+Powered VOID. When activated, destroys entering particles.	Питаемая пустота. При включении уничтожает входящие частицы.
+Quartz, breakable mineral. Conducts but becomes brittle when cold. Scatters photons.	Кварц, хрупкий минерал. Проводит ток, но на холоде становится хрупким. Рассеивает фотоны.
+Rubidium. Explosive, especially on contact with water. Low melting point.	Рубидий. Взрывоопасен, особенно при контакте с водой. Низкая температура плавления.
+Liquid refrigerant.	Жидкий хладагент.
+Refrigerant. Heats up and liquefies under pressure.	Хладагент. Нагревается и сжижается под давлением.
+Solid, created when steam cools rapidly and goes through deposition, skipping the liquid phase.	Твёрдое тело, образуется при быстром охлаждении пара с десублимацией, минуя жидкую фазу.
+Solid, melts into various elements.	Твёрдое тело, плавится в различные элементы.
+Repels or attracts particles based on its temperature.	Отталкивает или притягивает частицы в зависимости от температуры.
+Solidified resist. Blocks pressure and insulates electricity. Liquefies on contact with neutrons.	Затвердевший резист. Блокирует давление и изолирует электричество. Разжижается при контакте с нейтронами.
+Resist. Solidifies on contact with photons, is destroyed by electrons and spark.	Резист. Твердеет при контакте с фотонами, разрушается электронами и искрой.
+Salt, dissolves in water.	Соль, растворяется в воде.
+Sand, Heavy particles. Melts into glass.	Песок, тяжёлые частицы. Плавится в стекло.
+Sawdust. Floats on water.	Опилки. Плавают на воде.
+Seeds. Put on sand and add water to grow a tree.	Семена. Положите на песок и добавьте воды, чтобы вырастить дерево.
+Shield. Grows around spark, broken by pressure.	Щит. Растёт вокруг искры, ломается давлением.
+Shield lvl 2.	Щит ур. 2.
+Shield lvl 3.	Щит ур. 3.
+Shield lvl 4.	Щит ур. 4.
+Singularity. Creates huge amounts of negative pressure and destroys everything.	Сингулярность. Создаёт огромное отрицательное давление и уничтожает всё.
+Powdered Silicon. A key ingredient in producing multiple materials.	Кремниевый порошок. Ключевой ингредиент многих материалов.
+Saltwater, conducts electricity, difficult to freeze.	Солёная вода, проводит электричество, трудно замерзает.
+Smoke, created by fire.	Дым, образуется при горении.
+Light particles. Created when ICE breaks under pressure.	Лёгкие частицы. Образуются, когда ICE разрушается под давлением.
+Soap. Creates bubbles, washes off deco color, and cures virus.	Мыло. Создаёт пузыри, смывает цвет декора и лечит вирус.
+STKM spawn point.	Точка появления STKM.
+STK2 spawn point.	Точка появления STK2.
+Sponge, absorbs water. Is not a moving solid.	Губка, впитывает воду. Не является движущимся твёрдым телом.
+Electricity. The basis of all electronics in TPT, travels along conductive elements.	Электричество. Основа всей электроники в TPT, течёт по проводящим элементам.
+Stickman. Don't kill him! Control with the arrow keys.	Стикмен. Не убивайте его! Управляйте стрелками.
+Second stickman. Don't kill him! Control with wasd.	Второй стикмен. Не убивайте его! Управление: wasd.
+Stone. Heavy particles, meltable.	Камень. Тяжёлые частицы, плавится.
+Storage. Captures and stores a single particle. Releases when charged with PSCN, also passes to PIPE.	Хранилище. Захватывает и хранит одну частицу. Выпускает при заряде от PSCN, также передаёт в PIPE.
+Switch. Only conducts when switched on. (PSCN switches on, NSCN switches off)	Переключатель. Проводит только когда включён. (PSCN включает, NSCN выключает)
+Tesla coil! Creates lightning when sparked.	Катушка Теслы! Создаёт молнии от искры.
+Lightning! Very hot, inflicts damage upon most materials, and transfers current to metals.	Молния! Очень горячая, наносит урон большинству материалов и передаёт ток металлам.
+Thermite. Burns into extremely hot molten metal.	Термит. Сгорает в чрезвычайно горячий расплавленный металл.
+Smart particles, Travels in straight lines and avoids obstacles. Grows with time.	Умные частицы, движутся по прямой и обходят препятствия. Растут со временем.
+Temperature sensor, creates a spark when there's a nearby particle with a greater temperature.	Датчик температуры, создаёт искру, когда рядом есть частица с большей температурой.
+Titanium. Higher melting temperature than most other metals, blocks all air pressure.	Титан. Температура плавления выше, чем у большинства металлов, блокирует любое давление воздуха.
+Tungsten. Brittle metal with a very high melting point.	Вольфрам. Хрупкий металл с очень высокой температурой плавления.
+Uranium. Heavy particles. Generates heat under pressure.	Уран. Тяжёлые частицы. Выделяет тепло под давлением.
+Vibranium. Stores energy and releases it in violent explosions.	Вибраниум. Накапливает энергию и высвобождает её в яростных взрывах.
+Vine, can grow along WOOD.	Лоза, может расти по WOOD.
+Virus. Turns everything it touches into virus.	Вирус. Превращает всё, чего касается, в вирус.
+Hole, will drain away any particles.	Дыра, поглощает любые частицы.
+Gas Virus. Turns everything it touches into virus.	Газовый вирус. Превращает всё, чего касается, в вирус.
+Solid Virus. Turns everything it touches into virus.	Твёрдый вирус. Превращает всё, чего касается, в вирус.
+Velocity sensor, creates a spark when there's a nearby particle with velocity higher than its temperature.	Датчик скорости, создаёт искру, когда рядом есть частица со скоростью выше его температуры.
+Displaces other elements.	Смещает другие элементы.
+Water. Conducts electricity, freezes, and extinguishes fires.	Вода. Проводит электричество, замерзает и тушит огонь.
+Flammable, melts at moderately high temperatures.	Горюч, плавится при умеренно высоких температурах.
+Air vent, creates pressure and pushes other particles away.	Воздушный вентиль, создаёт давление и отталкивает другие частицы.
+Wireless transmitter, transfers spark to any other wifi on the same temperature channel.	Беспроводной передатчик, передаёт искру любому другому wifi на том же температурном канале.
+WireWorld wires, conducts based on a set of GOL-like rules.	Провода WireWorld, проводят по набору правил, похожих на GOL.
+Wood, flammable.	Дерево, горючее.
+Steam. Produced from hot water.	Пар. Получается из горячей воды.
+Yeast, grows when warm (~37C).	Дрожжи, растут в тепле (~37C).
+Erases walls.	Стирает стены.
+Blocks everything. Conductive.	Блокирует всё. Проводит ток.
+E-Wall. Becomes transparent when electricity is connected.	Э-стена. Становится прозрачной при подаче электричества.
+Detector. Generates electricity when a particle is inside.	Детектор. Создаёт электричество, когда внутри есть частица.
+Streamline. Creates a line that follows air movement.	Линия тока. Рисует линию вдоль движения воздуха.
+Fan. Accelerates air. Use the line tool to set direction and strength.	Вентилятор. Разгоняет воздух. Направление и силу задавайте инструментом «линия».
+Allows liquids, blocks all other particles. Conductive.	Пропускает жидкости, блокирует остальные частицы. Проводит ток.
+Absorbs particles but lets air currents through.	Поглощает частицы, но пропускает потоки воздуха.
+Basic wall, blocks everything.	Обычная стена, блокирует всё.
+Allows air, but blocks all particles.	Пропускает воздух, блокирует все частицы.
+Allows powders, blocks all other particles.	Пропускает порошки, блокирует остальные частицы.
+Conductor. Allows all particles to pass through and conducts electricity.	Проводник. Пропускает все частицы и проводит электричество.
+E-Hole. absorbs particles, releases them when powered.	Э-дыра. Поглощает частицы, выпускает их при подаче питания.
+Allows gases, blocks all other particles.	Пропускает газы, блокирует остальные частицы.
+Gravity wall. Newtonian Gravity has no effect inside a box drawn with this.	Гравитационная стена. Ньютоновская гравитация не действует внутри прямоугольника из неё.
+Allows energy particles, blocks all other particles.	Пропускает энергетические частицы, блокирует остальные.
+Allows all particles, but blocks air.	Пропускает все частицы, блокирует воздух.
+Erases walls, particles, and signs.	Стирает стены, частицы и надписи.
+Freezes particles inside the wall in place until powered.	Замораживает частицы внутри стены на месте до подачи питания.
+Walls	Стены
+Electronics	Электроника
+Powered Materials	Питаемые материалы
+Sensors	Датчики
+Force	Силы
+Explosives	Взрывчатка
+Gases	Газы
+Liquids	Жидкости
+Powders	Порошки
+Solids	Твёрдые тела
+Radioactive	Радиоактивные
+Special	Особые
+Game Of Life	Игра «Жизнь»
+Tools	Инструменты
+Favorites	Избранное
+Decoration tools	Инструменты декора
+Air, creates airflow and pressure.	Воздух, создаёт поток и давление.
+Decreases ambient air temperature.	Понижает температуру окружающего воздуха.
+Increases ambient air temperature.	Повышает температуру окружающего воздуха.
+Cools the targeted element.	Охлаждает выбранный элемент.
+Cyclone, produces swirling air currents	Циклон, создаёт вихревые потоки воздуха
+Heats the targeted element.	Нагревает выбранный элемент.
+Mixes particles.	Перемешивает частицы.
+Creates a short-lasting negative gravity well.	Создаёт кратковременную отрицательную гравитационную яму.
+Creates a short-lasting gravity well.	Создаёт кратковременную гравитационную яму.
+Vacuum, reduces air pressure.	Вакуум, понижает давление воздуха.
+Creates air movement.	Создаёт движение воздуха.
+Game Of Life: Begin 3/Stay 23	Игра «Жизнь»: Рождение 3/Выживание 23
+High Life: B36/S23	Высокая жизнь: B36/S23
+Assimilation: B345/S4567	Ассимиляция: B345/S4567
+Day and Night: B3678/S34678	День и ночь: B3678/S34678
+Amoeba: B357/S1358	Амёба: B357/S1358
+'Move' particles. Does not move things.. it is a life type: B368/S245	Частицы «Движение». Ничего не двигает.. это тип жизни: B368/S245
+Pseudo Life: B357/S238	Псевдожизнь: B357/S238
+Diamoeba: B35678/S5678	Диамёба: B35678/S5678
+Long Life: B345/S5	Долгая жизнь: B345/S5
+Stains: B3678/S235678	Пятна: B3678/S235678
+Seeds: B2/S	Семена: B2/S
+Maze: B3/S12345	Лабиринт: B3/S12345
+Coagulations: B378/S235678	Коагуляция: B378/S235678
+Walled cities: B45678/S2345	Города в стенах: B45678/S2345
+Gnarl: B1/S1	Сучок: B1/S1
+Replicator: B1357/S1357	Репликатор: B1357/S1357
+Mystery: B3458/S05678	Тайна: B3458/S05678
+Living on the Edge: B37/S3458/4	Жизнь на грани: B37/S3458/4
+Like Frogs rule: B3/S124/3	Как правило «Лягушки»: B3/S124/3
+Like Star Wars rule: B278/S3456/6	Как правило «Звёздные войны»: B278/S3456/6
+Frogs: B34/S12/3	Лягушки: B34/S12/3
+Brian 6: B246/S6/3	Брайан 6: B246/S6/3
+Pause/Resume the simulation	Пауза/продолжение симуляции
+Find & open a simulation. Hold Ctrl to load offline saves.	Найти и открыть симуляцию. Удерживайте Ctrl, чтобы загрузить локальные сохранения.
+Open a simulation from your hard drive.	Открыть симуляцию с вашего устройства.
+Overwrite the open simulation on your hard drive.	Перезаписать открытую симуляцию на вашем устройстве.
+Save the simulation to your hard drive. Login to save online.	Сохранить симуляцию на устройство. Войдите, чтобы сохранять онлайн.
+Save the simulation to your hard drive.	Сохранить симуляцию на устройство.
+Upload a new simulation. Hold Ctrl to save offline.	Загрузить новую симуляцию. Удерживайте Ctrl, чтобы сохранить локально.
+Re-upload the current simulation	Загрузить текущую симуляцию заново
+Reload the simulation	Перезагрузить симуляцию
+Renderer options	Настройки отрисовки
+Modify simulation properties	Изменить свойства симуляции
+Sign in to simulation server	Войти на сервер симуляций
+Sign into simulation server	Войти на сервер симуляций
+Edit Profile	Изменить профиль
+Edit profile	Изменить профиль
+Search for elements	Поиск элементов
+Settings	Настройки
+Erase everything	Стереть всё
+Like this save	Нравится это сохранение
+Dislike this save	Не нравится это сохранение
+Saving vote...	Сохранение голоса...
+Go to save ID:	Перейти к ID сохранения:
+Pick Colour	Выбрать цвет
+Decoration Presets.	Пресеты декора.
+Empty	Пусто
+Error loading save	Ошибка загрузки сохранения
+Error loading stamp	Ошибка загрузки штампа
+Dropped file is not a TPT save file (.cps or .stm format)	Брошенный файл не является сохранением TPT (формат .cps или .stm)
+Remove custom GOL type	Удалить пользовательский тип GOL
+Add simulation tags	Добавить теги симуляции
+Ambient Heat: Off	Окружающее тепло: выкл
+Ambient Heat: On	Окружающее тепло: вкл
+Colour blending: Add.	Смешивание цветов: сложение.
+Colour blending: Divide.	Смешивание цветов: деление.
+Colour blending: Multiply.	Смешивание цветов: умножение.
+Colour blending: Subtract.	Смешивание цветов: вычитание.
+Custom GOL type: 	Пользовательский тип GOL: 
+Decorations Layer: Off	Слой декора: выкл
+Decorations Layer: On	Слой декора: вкл
+Draw decoration (No blending).	Рисовать декор (без смешивания).
+Erase any set decoration.	Стереть любой установленный декор.
+Error while voting	Ошибка при голосовании
+Gravity Grid: Off	Сетка гравитации: выкл
+Gravity Grid: On	Сетка гравитации: вкл
+Newtonian Gravity: Off	Ньютоновская гравитация: выкл
+Newtonian Gravity: On	Ньютоновская гравитация: вкл
+Paste content has missing custom elements	В вставляемом содержимом отсутствуют пользовательские элементы
+Smudge tool, blends surrounding deco together.	Размазывание, смешивает соседний декор.
+Accelerating instead of step scroll	Ускоряющаяся прокрутка вместо ступенчатой
+Air heat convection mode	Режим конвекции тепла воздуха
+Air simulation mode	Режим симуляции воздуха
+Allows copying and pasting across TPT instances	Позволяет копировать и вставлять между копиями TPT
+Always exit completely when hitting close	Всегда полностью выходить при закрытии
+Ambient air pressure	Давление окружающего воздуха
+Ambient air temperature	Температура окружающего воздуха
+Ambient air velocity	Скорость окружающего воздуха
+Better circle brush, without incorrect points on edges	Улучшенная круглая кисть без лишних точек на краях
+Can cause odd / broken behaviour with many saves	Может вызвать странное поведение со многими сохранениями
+Can cause odd behaviour when disabled	При отключении может вызвать странное поведение
+Colour space used by decoration tools	Цветовое пространство инструментов декора
+Ctrl+q works everywhere	Ctrl+q работает везде
+Custom Gravity	Своя гравитация
+Developers may ask for this when trying to fix problems	Разработчики могут попросить включить это при поиске ошибок
+Disable if that key is 0 on your keyboard	Отключите, если эта клавиша на вашей клавиатуре даёт 0
+Disable if you have a slow connection	Отключите при медленном соединении
+Do Migration?	Выполнить перенос?
+Done once at startup	Выполняется один раз при запуске
+Fetch the message of the day and notifications	Получать сообщение дня и уведомления
+Fetch them now	Получить сейчас
+Files that already exist will not be overwritten.	Уже существующие файлы не будут перезаписаны.
+Follow display	Как у экрана
+Global quit shortcut	Глобальное сочетание выхода
+Gravity simulation mode	Режим симуляции гравитации
+Include pressure	Учитывать давление
+Key under Esc exits console	Клавиша под Esc закрывает консоль
+May cause poor performance on older computers	Может снизить производительность на старых устройствах
+May cause poor performance with a lot of water	Может снизить производительность при большом количестве воды
+May increase framerate when fancy effects are in use	Может повысить частоту кадров при красивых эффектах
+Migrate to shared data directory	Перенести в общую папку данных
+Migration Complete	Перенос завершён
+Momentum (old) scrolling	Инерционная (старая) прокрутка
+Open data folder	Открыть папку данных
+Perfect circle brush	Идеальная круглая кисть
+Pressure off	Давление выкл
+Rendering framerate cap	Ограничение частоты кадров отрисовки
+Save errors and other messages to a file	Сохранять ошибки и сообщения в файл
+Separate rendering thread	Отдельный поток отрисовки
+Set optimal screen resolution	Установить оптимальное разрешение экрана
+Show avatars	Показывать аватары
+Simulation framerate cap	Ограничение частоты кадров симуляции
+Sticky categories	Закреплённые категории
+Switch between categories by clicking	Переключать категории нажатием
+Temperature scale	Шкала температуры
+Use platform clipboard	Использовать системный буфер обмена
+Velocity off	Скорость выкл
+Vorticity confinement	Удержание завихрённости
+When saving, copying, stamping, etc.	При сохранении, копировании, штамповании и т. д.
+Window scale factor for larger screens	Масштаб окна для больших экранов
+Adds Special flare effects to some elements	Добавляет особые эффекты вспышек некоторым элементам
+Alternative Velocity display mode preset	Альтернативный пресет отображения скорости
+Basic rendering, without this, most things will be invisible	Базовая отрисовка, без неё большинство вещей невидимо
+Blob display mode preset	Пресет отображения «капли»
+Blur effect for liquids	Эффект размытия для жидкостей
+Changes colors of elements slightly to show heat diffusing through them	Слегка меняет цвета элементов, показывая распространение тепла в них
+Displays pressure as red and blue, and velocity as white	Показывает давление красным и синим, а скорость белым
+Displays pressure, red is positive and blue is negative	Показывает давление: красный — положительное, синий — отрицательное
+Displays temperatures of the elements, dark blue is coldest, pink is hottest	Показывает температуры элементов: тёмно-синий — самый холодный, розовый — самый горячий
+Displays the life value of elements in greyscale gradients	Показывает значение жизни элементов градиентами серого
+Displays the temperature of the air like heat display does	Показывает температуру воздуха, как отображение тепла
+Displays velocity and positive pressure: up/down adds blue, right/left adds red, still pressure adds green	Показывает скорость и положительное давление: вверх/вниз добавляет синий, вправо/влево — красный, неподвижное давление — зелёный
+Displays vorticity, red is clockwise and blue is anticlockwise	Показывает завихрённость: красный — по часовой стрелке, синий — против
+Element paths persist on the screen for a while	Следы элементов остаются на экране некоторое время
+Enables moving solids, stickmen guns, and premium(tm) graphics	Включает движущиеся твёрдые тела, оружие стикменов и премиум(tm) графику
+Fancy display mode preset	Пресет отображения «красивый»
+Fire display mode preset	Пресет отображения «огонь»
+Fire effect for gasses	Эффект огня для газов
+Glow effect on some elements	Эффект свечения некоторых элементов
+Glow effect on sparks	Эффект свечения искр
+Gravity lensing, Newtonian Gravity bends light with this on	Гравитационное линзирование: при включении ньютоновская гравитация искривляет свет
+Heat display mode preset	Пресет отображения «тепло»
+Heat gradient display mode preset	Пресет отображения «градиент тепла»
+Life display mode preset	Пресет отображения «жизнь»
+Makes everything be drawn like a blob	Рисует всё в виде капель
+No special effects at all for anything, overrides all other options and deco	Никаких спецэффектов, перекрывает все остальные настройки и декор
+Nothing display mode preset	Пресет отображения «ничего»
+Persistent display mode preset	Пресет отображения «следы»
+Pressure display mode preset	Пресет отображения «давление»
+Velocity display mode preset	Пресет отображения «скорость»
+A new beta is available - click here to update	Доступна новая бета-версия — нажмите, чтобы обновить
+A new mod update is available - click here to update	Доступно обновление мода — нажмите, чтобы обновить
+A new snapshot is available - click here to update	Доступен новый снимок — нажмите, чтобы обновить
+A new version is available - click here to update	Доступна новая версия — нажмите, чтобы обновить
+Air: No Update	Воздух: без обновления
+Air: Pressure Off	Воздух: давление выкл
+Air: Velocity Off	Воздух: скорость выкл
+Cannot open save	Не удаётся открыть сохранение
+Could not create stamp	Не удалось создать штамп
+Could not install	Не удалось установить
+Do you wish to install 	Хотите установить 
+Edge Mode: Loop	Режим краёв: замкнутый
+Edge Mode: Solid	Режим краёв: твёрдый
+Edge Mode: Void	Режим краёв: пустота
+Error generating save file	Ошибка создания файла сохранения
+Error serializing save file	Ошибка сериализации файла сохранения
+Gravity: Custom	Гравитация: своя
+Gravity: Off	Гравитация: выкл
+Gravity: Radial	Гравитация: радиальная
+Gravity: Vertical	Гравитация: вертикальная
+Installation completed	Установка завершена
+No installation necessary	Установка не требуется
+No save open	Нет открытого сохранения
+Run Updater	Запустить обновление
+Saved Successfully	Успешно сохранено
+The installation did not complete due to an error	Установка не завершена из-за ошибки
+Unable to build save.	Не удалось собрать сохранение.
+Unable to serialize game data.	Не удалось сериализовать данные игры.
+Unable to write save file.	Не удалось записать файл сохранения.
+You need to login to upload saves.	Нужно войти, чтобы загружать сохранения.

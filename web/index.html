@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <title>The Powder Toy</title>
+  <style>
+    :root { color-scheme: dark; background: #000; }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; background: #000; }
+    body { display: grid; place-items: center; overscroll-behavior: none; }
+    /* The canvas contains the original SDL game UI. Only scale its viewport; do not restyle the game. */
+    #canvas { display: block; width: auto; height: auto; max-width: 100vw; max-height: 100dvh; touch-action: none; outline: none; }
+    #loading { position: fixed; inset: 0; display: grid; place-items: center; color: #ddd; background: #000; font: 14px system-ui, sans-serif; }
+    #loading[hidden] { display: none; }
+    #error { max-width: min(90vw, 680px); padding: 18px; color: #ffb6b6; white-space: pre-wrap; text-align: center; }
+  </style>
+</head>
+<body>
+  <div id="loading" role="status">Loading The Powder Toy…</div>
+  <canvas id="canvas" tabindex="0" oncontextmenu="event.preventDefault()"></canvas>
+  <script>
+  (() => {
+    const canvas = document.getElementById('canvas');
+    const loading = document.getElementById('loading');
+    let resizeObserver;
+
+    function fitCanvas() {
+      const w = canvas.width || 640;
+      const h = canvas.height || 480;
+      const scale = Math.min(window.innerWidth / w, window.innerHeight / h);
+      canvas.style.width = `${Math.max(1, Math.floor(w * scale))}px`;
+      canvas.style.height = `${Math.max(1, Math.floor(h * scale))}px`;
+    }
+
+    fitCanvas();
+    resizeObserver = new MutationObserver(fitCanvas);
+    resizeObserver.observe(canvas, { attributes: true, attributeFilter: ['width', 'height'] });
+    window.addEventListener('resize', fitCanvas, { passive: true });
+    window.addEventListener('orientationchange', fitCanvas, { passive: true });
+
+    window.addEventListener('error', (event) => {
+      if (loading.hidden) return;
+      loading.innerHTML = '';
+      const message = document.createElement('div');
+      message.id = 'error';
+      message.textContent = 'Could not start The Powder Toy.\n' + (event.message || 'Unknown browser error');
+      loading.appendChild(message);
+    });
+
+    const script = document.createElement('script');
+    script.src = 'powder.js';
+    script.onerror = () => {
+      loading.textContent = 'powder.js was not found. Build the WebAssembly version first.';
+    };
+    script.onload = async () => {
+      try {
+        if (typeof create_powder !== 'function') {
+          throw new Error('The WebAssembly loader did not expose create_powder().');
+        }
+        await create_powder({
+          canvas,
+          print: (message) => console.log(message),
+          printErr: (message) => console.error(message),
+          onAbort: (reason) => {
+            loading.hidden = false;
+            loading.textContent = 'The Powder Toy stopped: ' + reason;
+          },
+        });
+        loading.hidden = true;
+        canvas.focus({ preventScroll: true });
+        fitCanvas();
+      } catch (error) {
+        loading.hidden = false;
+        loading.innerHTML = '';
+        const message = document.createElement('div');
+        message.id = 'error';
+        message.textContent = 'Could not start The Powder Toy.\n' + String(error);
+        loading.appendChild(message);
+        console.error(error);
+      }
+    };
+    document.head.appendChild(script);
+  })();
+  </script>
+</body>
+</html>
