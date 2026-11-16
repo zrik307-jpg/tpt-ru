@@ -9,6 +9,8 @@ struct TranslationEntry
 };
 extern const TranslationEntry translationTable[];
 extern const unsigned translationTableSize;
+extern const TranslationEntry toolNameTable[];
+extern const unsigned toolNameTableSize;
 
 // Look up an English string literal. If the table has a Russian version, it is
 // returned; otherwise the literal is converted as before (ASCII or UTF-8).

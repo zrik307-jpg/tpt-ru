@@ -420,3 +420,355 @@ Unable to build save.	Не удалось собрать сохранение.
 Unable to serialize game data.	Не удалось сериализовать данные игры.
 Unable to write save file.	Не удалось записать файл сохранения.
 You need to login to upload saves.	Нужно войти, чтобы загружать сохранения.
+ (Use ctrl+shift+click to toggle the favorite status of an element)	 (Ctrl+Shift+клик — добавить элемент в избранное или убрать)
+ (default)	 (по умолчанию)
+ (unknown mode)	 (неизвестный режим)
+ - Find out who contributed to TPT	 - Узнать, кто участвовал в создании TPT
+ - Set both limits to sane defaults	 - Вернуть оба ограничения к разумным значениям
+ Beta, Build 	 Бета, сборка 
+ Left	 Слева
+ Middle	 По центру
+ Right	 Справа
+ None	 Нет
+ Parts: 	 Частиц: 
+ Prev	 Назад
+ Stable, Build 	 Стабильная, сборка 
+ Total:	 Всего:
+ [FIND]	 [ПОИСК]
+ [GRID: 	 [СЕТКА: 
+ [REPLACE MODE]	 [РЕЖИМ ЗАМЕНЫ]
+ [SPECIFIC DELETE]	 [ТОЧЕЧНОЕ УДАЛЕНИЕ]
+ [TEMP L:	 [ТЕМП Л:
+ bytes	 байт
+ in browser	 в браузере
+ is present in both files and is different!	 есть в обоих файлах и отличается!
+ notifications fetched	 уведомлений получено
+ of 	 из 
+ on this platform	 на этой платформе
+ save	 сохранение
+ stamp	 штамп
+ to end due to unpause	 до конца из-за снятия паузы
+ to the target	 в цель
+ with 	 с 
+ with molten 	 с расплавленным 
+!load 	!load 
+, AHeat: 	, Т.возд: 
+, Life: 	, Жизнь: 
+, Pressure: 	, Давление: 
+, Temp: 	, Темп: 
+, Tmp2: 	, Tmp2: 
+, Tmp: 	, Tmp: 
+, also checks for updates	, также проверяет обновления
+, effective: 	, действует: 
+, you're about to publish this under your own name; If you haven't been given permission by the author to do so, please uncheck the publish box, otherwise continue	, вы публикуете это под своим именем. Если автор не разрешил, снимите галочку «Опубликовать», иначе продолжайте
+AND-NOT	И-НЕ
+Add	Добавить
+Add Comment	Добавить комментарий
+Add a new custom GOL type. (Use ctrl+shift+rightclick to remove them)	Добавить свой тип GOL. (Ctrl+Shift+правый клик — удалить)
+Adding U+	Добавление U+
+Age:	Возраст:
+Air: Off	Воздух: выкл
+Air: On	Воздух: вкл
+All	Все
+Applying update	Применение обновления
+Are you sure you want to 	Вы уверены, что хотите 
+Are you sure you want to delete 	Вы уверены, что хотите удалить 
+Are you sure you want to exit the game?	Вы уверены, что хотите выйти из игры?
+Are you sure you want to remove 	Вы уверены, что хотите удалить 
+Autoupdate failed	Автообновление не удалось
+Average Score:	Средняя оценка:
+Bad language may be deleted	Нецензурные выражения могут быть удалены
+Biography:	О себе:
+Boussinesq	Буссинеск
+Brushes: Skipping 	Кисти: пропуск 
+By date	По дате
+By votes	По голосам
+Cancel	Отмена
+Cannot open data folder: Platform::GetCwd(...) failed	Не удаётся открыть папку данных: Platform::GetCwd(...) завершился ошибкой
+Celsius	Цельсий
+Change	Изменить
+Change save name	Изменить имя сохранения
+Clear selection	Снять выделение
+Click the box below to copy the save ID	Нажмите на поле ниже, чтобы скопировать ID сохранения
+Click the box below to copy the save id	Нажмите на поле ниже, чтобы скопировать ID сохранения
+Close	Закрыть
+Comment is too short	Комментарий слишком короткий
+Confirm	Подтвердить
+Copied!	Скопировано!
+Copy	Копировать
+Could not add GOL type	Не удалось добавить тип GOL
+Could not add tag	Не удалось добавить тег
+Could not download update: 	Не удалось скачать обновление: 
+Could not favourite the save: 	Не удалось добавить сохранение в избранное: 
+Could not load user info: 	Не удалось загрузить данные пользователя: 
+Could not open 	Не удалось открыть 
+Could not remove tag	Не удалось удалить тег
+Could not rename file	Не удалось переименовать файл
+Could not save user info: 	Не удалось сохранить данные пользователя: 
+Could not unfavourite the save: 	Не удалось убрать сохранение из избранного: 
+Count:	Количество:
+Created:	Создано:
+Credits	Авторы
+Custom	Своя
+Cut	Вырезать
+Day	День
+Delete	Удалить
+Delete Save	Удалить сохранение
+Delete saves	Удаление сохранений
+Delete stamps	Удаление штампов
+Deleting save [	Удаление сохранения [
+Deleting stamp [	Удаление штампа [
+Deselect	Снять
+Dismiss	Скрыть
+Do not ask for votes	Не просить оценок
+Don't have an account? {a:	Нет аккаунта? {a:
+Done	Готово
+Downloading update	Загрузка обновления
+Downloading update...	Загрузка обновления...
+Dropped save file could not be loaded: 	Брошенное сохранение не удалось загрузить: 
+Dropped stamp could not be loaded: 	Брошенный штамп не удалось загрузить: 
+Edge mode	Режим краёв
+Edit Avatar	Изменить аватар
+Edit custom GOL type	Изменить свой тип GOL
+Edit property	Изменить свойство
+Edit sign	Изменить надпись
+Element Search	Поиск элементов
+Empty, Pressure: 	Пусто, Давление: 
+Enter a new name for the stamp:	Введите новое имя штампа:
+Error	Ошибка
+Error renaming stamp	Ошибка переименования штампа
+Error submitting comment	Ошибка отправки комментария
+Error: 	Ошибка: 
+Exact	Точно
+FPS: 	Кадр/с: 
+Fahrenheit	Фаренгейт
+Failed to delete [	Не удалось удалить [
+Failed to favourite [	Не удалось добавить в избранное [
+Failed to publish [	Не удалось опубликовать [
+Failed to unfavourite [	Не удалось убрать из избранного [
+Failed to unpublish [	Не удалось снять с публикации [
+Fast quit	Быстрый выход
+Fav	Избр.
+Favouring save [	Добавление в избранное [
+Favouring saves	Добавление в избранное
+Favourite	В избранное
+Former Staff	Бывшая команда
+Fullscreen	Во весь экран
+Gamma 1.8	Гамма 1.8
+Gamma 2.2	Гамма 2.2
+Grid	Сетка
+Highest Score:	Наивысшая оценка:
+If you have any questions about what is and isn't against the rules, feel free to contact a moderator.	Если есть вопросы о том, что нарушает правила, обратитесь к модератору.
+Information	Информация
+Install 	Установить 
+Invalid filename.	Неверное имя файла.
+Invalid name provided	Указано неверное имя
+Invalid rule provided	Указано неверное правило
+Invalid update format	Неверный формат обновления
+Kelvin	Кельвин
+Legacy	Старый
+Linear	Линейный
+Loading files	Загрузка файлов
+Loading save...	Загрузка сохранения...
+Location:	Расположение:
+Logged in	Вход выполнен
+Logged out	Выход выполнен
+Logging in...	Вход...
+Logging out...	Выход...
+Login to comment	Войдите, чтобы комментировать
+Loop	Замкнутый
+Missing custom elements	Отсутствуют пользовательские элементы
+Mod 	Мод 
+Mod version 	Версия мода 
+Moderator	Модератор
+Moderators	Модераторы
+Modify simulation properties:	Изменить свойства симуляции:
+Molten 	Расплавленный 
+Month	Месяц
+More by this user	Ещё от этого пользователя
+Move	Двигать
+Must be at least 4 letters	Минимум 4 буквы
+My Own	Мои
+NULL Tool, does NOTHING	ПУСТОЙ инструмент, НИЧЕГО не делает
+Name already taken	Имя уже занято
+New sign	Новая надпись
+Next 	Далее 
+No character	Нет символа
+No save name given	Не указано имя сохранения
+No saves found	Сохранения не найдены
+No update	Нет обновления
+None	Нет
+Off	Выкл
+Okay	ОК
+On	Вкл
+Open	Открыть
+Open forum thread 	Открыть тему на форуме 
+Open in browser	Открыть в браузере
+Overwrite file	Перезаписать файл
+Page	Страница
+Page 	Страница 
+Page 1 of 1	Страница 1 из 1
+Page X of Y	Страница X из Y
+Paste	Вставить
+Paused	Пауза
+Please do not swear	Пожалуйста, не ругайтесь
+Please get the snapshot or beta version at 	Скачайте снапшот или бету на 
+Please report stolen saves	Сообщайте о краденых сохранениях
+Please update TPT in game or at 	Обновите TPT в игре или на 
+Pointer:	Указатель:
+Position: L 	Позиция: Л 
+Preview	Просмотр
+Preview:	Просмотр:
+Property Drawing Tool. Use to alter the properties of elements in the field.	Инструмент свойств. Меняйте свойства элементов на поле.
+Publish	Опубликовать
+Publish Saves	Публикация сохранений
+Publishing Info	Сведения о публикации
+Publishing Saves	Публикация сохранений
+Publishing save [	Публикация сохранения [
+Radial	Радиальная
+Remove	Убрать
+Removing saves	Удаление сохранений
+Removing stamps	Удаление штампов
+Rename	Переименовать
+Rename stamp	Переименовать штамп
+Render	Отрисовка
+Rendering thumbnails	Создание миниатюр
+Report	Пожаловаться
+Report Save	Пожаловаться на сохранение
+Report submitted	Жалоба отправлена
+Rescan	Сканировать заново
+Reset	Сбросить
+Resizable	Изменяемое
+Rulers	Линейки
+Sample an element on the screen.	Взять образец элемента с экрана.
+Sand effect	Эффект песка
+Save	Сохранить
+Save Browser	Обзор сохранений
+Save ID	ID сохранения
+Save ID:	ID сохранения:
+Save Uploading Rules	Правила загрузки сохранений
+Save from newer version	Сохранение из более новой версии
+Save to computer:	Сохранить на устройство:
+Saved Successfully!	Успешно сохранено!
+Saves:	Сохранения:
+Saving to server...	Сохранение на сервер...
+Scale	Масштаб
+Search Help	Справка по поиску
+Search for 	Поиск: 
+Search:	Поиск:
+Select	Выбрать
+Server did not return any data	Сервер не вернул данных
+Server login	Вход на сервер
+Server responded with Status 	Сервер ответил статусом 
+Sign Out	Выйти
+Sign in	Войти
+Sign. Displays text. Click on a sign to edit it or anywhere else to place a new one.	Надпись. Показывает текст. Нажмите на надпись, чтобы изменить её, или в другое место, чтобы поставить новую.
+Size: 	Размер: 
+Snapshot 	Снапшот 
+Solid	Твёрдый
+Sort	Сортировка
+Staff - volunteers that run the community and keep the site running	Команда — волонтёры, которые ведут сообщество и поддерживают сайт
+Stolen? Report the save instead	Украдено? Пожалуйтесь на сохранение
+Submit	Отправить
+Submitting comment...	Отправка комментария...
+Success	Успех
+Swap	Поменять
+Tag not long enough	Тег слишком короткий
+Their contributions to the early beginnings of The Powder Toy were invaluable in shaping it into what it is today.	Их вклад в самые первые версии The Powder Toy сыграл огромную роль в том, чтобы игра стала такой, какая она сейчас.
+This Custom GoL rule already exists	Такое пользовательское правило GoL уже существует
+This save is from a newer version	Это сохранение из более новой версии
+This save is from a snapshot or a beta version	Это сохранение из снапшота или бета-версии
+This save uses custom elements that are not currently available. Make sure that you use the mod and/or have all the scripts the save requires to fully load.	Сохранение использует пользовательские элементы, которых сейчас нет. Убедитесь, что используете мод и/или у вас есть все нужные скрипты.
+This save was created by 	Это сохранение создал 
+Unable to decompress update: 	Не удалось распаковать обновление: 
+Unable to file report: 	Не удалось отправить жалобу: 
+Uncapped	Без ограничения
+Unfavouring save [	Удаление из избранного [
+Unfavouring saves	Удаление из избранного
+Unfavourite	Убрать из избранного
+Unpacking update	Распаковка обновления
+Unpublish	Снять с публикации
+Unpublish Saves	Снятие с публикации
+Unpublishing Saves	Снятие с публикации
+Unpublishing save [	Снятие с публикации [
+Update failed - try downloading a new version.	Обновление не удалось — скачайте новую версию.
+Updated particles from #	Обновлены частицы от №
+Updated:	Обновлено:
+Upload new simulation:	Загрузить новую симуляцию:
+Use your Powder Toy account to log in, not your email. If you don't have a Powder Toy account, you can create one at 	Входите с аккаунтом Powder Toy, а не с почтой. Если аккаунта нет, создайте его на 
+Vertical	Вертикальная
+View History	История
+Void	Пустота
+Website:	Сайт:
+Week	Неделя
+Year	Год
+You are about to quit	Вы собираетесь выйти
+You have to specify the filename.	Нужно указать имя файла.
+You must specify a filename.	Нужно указать имя файла.
+You must specify a save name.	Нужно указать имя сохранения.
+[new name]	[новое имя]
+[new tag]	[новый тег]
+[no tags set]	[теги не заданы]
+[save description]	[описание сохранения]
+[save name]	[имя сохранения]
+[search, F1 for help]	[поиск, F1 — справка]
+[sign in]	[войти]
+[untitled simulation]	[симуляция без названия]
+], is this save yours?	], это ваше сохранение?
+blue shift	синее смещение
+no effect	нет эффекта
+of 	из 
+publish 	опубликовать 
+red shift	красное смещение
+screenshot 	скриншот 
+set colour	задать цвет
+unpublish 	снять с публикации 
+variable blue shift	переменное синее смещение
+variable red shift	переменное красное смещение
+Alternative Velocity Display	Альтернативное отображение скорости
+Blob Display	Отображение «капли»
+Destructibility Display	Отображение разрушаемости
+Dynamic Heat Display	Динамическое отображение тепла
+Fancy Display	Красивое отображение
+Fire Display	Отображение огня
+Heat Display	Отображение тепла
+Heat Gradient Display	Градиент тепла
+Life Gradient Display	Градиент жизни
+Nothing Display	Ничего не отображать
+Persistent Display	Отображение следов
+Pressure Display	Отображение давления
+Velocity Display	Отображение скорости
+Vorticity Display	Отображение завихрённости
+ABSORB WALL	ПОГЛОЩАЮЩАЯ СТЕНА
+AIRBLOCK WALL	СТЕНА БЕЗ ВОЗДУХА
+AIRONLY WALL	ВОЗДУШНАЯ СТЕНА
+CONDUCTIVE WALL	ПРОВОДЯЩАЯ СТЕНА
+ENERGY WALL	СТЕНА ДЛЯ ЭНЕРГИИ
+GAS WALL	СТЕНА ДЛЯ ГАЗОВ
+GRAVITY WALL	ГРАВИТАЦИОННАЯ СТЕНА
+LIQUID WALL	СТЕНА ДЛЯ ЖИДКОСТЕЙ
+POWDER WALL	СТЕНА ДЛЯ ПОРОШКОВ
+STASIS WALL	СТАЗИС-СТЕНА
+Please wait...	Подождите...
+Loading 	Загрузка 
+Version: 	Версия: 
+Fetching the message of the day...	Получение сообщения дня...
+Enter some text:	Введите текст:
+Powder Toy Save	Сохранение Powder Toy
+No data	Нет данных
+No description	Нет описания
+Not found	Не найдено
+Not Found	Не найдено
+Unknown Status Code	Неизвестный код состояния
+Install script manager	Установить менеджер скриптов
+Downloaded scripts	Загруженные скрипты
+Stage 2	Этап 2
+Text is empty	Текст пуст
+Sign doesn't exist	Надпись не существует
+Duplicate name, cannot add	Такое имя уже есть, добавить нельзя
+Large screen detected	Обнаружен большой экран
+Frame time	Время кадра
+Fake progress	Ложный прогресс
+Nothing to migrate.	Переносить нечего.
+Migration complete. Results: 	Перенос завершён. Результат: 
+Running migration of data from 	Перенос данных из 

@@ -1,3 +1,4 @@
+#include "common/TranslateNames.h"
 #include "ElementSearchActivity.h"
 
 #include <set>
@@ -123,6 +124,10 @@ void ElementSearchActivity::searchTools(String query)
 	for (int toolIndex = 0; toolIndex < (int)tools.size(); ++toolIndex)
 	{
 		pushIfMatches(tools[toolIndex]->Name.ToLower(), toolIndex, 0);
+		if (TranslateToolName(tools[toolIndex]->Name) != tools[toolIndex]->Name)
+		{
+			pushIfMatches(TranslateToolNameLower(tools[toolIndex]->Name), toolIndex, 0);
+		}
 		pushIfMatches(tools[toolIndex]->Description.ToLower(), toolIndex, 1);
 		auto it = menudescriptionLower.find(tools[toolIndex]);
 		if (it != menudescriptionLower.end())
@@ -149,7 +154,7 @@ void ElementSearchActivity::searchTools(String query)
 		if(tempTexture)
 			tempButton = new ToolButton(current+viewPosition, ui::Point(30, 18), "", tool->Identifier, tool->Description);
 		else
-			tempButton = new ToolButton(current+viewPosition, ui::Point(30, 18), tool->Name, tool->Identifier, tool->Description);
+			tempButton = new ToolButton(current+viewPosition, ui::Point(30, 18), TranslateToolName(tool->Name), tool->Identifier, tool->Description);
 
 		tempButton->Appearance.SetTexture(std::move(tempTexture));
 		tempButton->Appearance.BackgroundInactive = tool->Colour.WithAlpha(0xFF);

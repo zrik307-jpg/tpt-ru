@@ -1,3 +1,4 @@
+#include "common/TranslateNames.h"
 #include "SimulationData.h"
 #include "ElementGraphics.h"
 #include "ElementDefs.h"
@@ -271,7 +272,7 @@ String SimulationData::ElementResolve(int type, int ctype) const
 	{
 		if (ctype >= 0 && ctype < NGOL)
 		{
-			return builtinGol[ctype].name; 
+			return TranslateToolName(builtinGol[ctype].name);
 		}
 		auto *cgol = GetCustomGOLByRule(ctype);
 		if (cgol)
@@ -281,7 +282,7 @@ String SimulationData::ElementResolve(int type, int ctype) const
 		return SerialiseGOLRule(ctype);
 	}
 	else if (type >= 0 && type < PT_NUM)
-		return elements[type].Name;
+		return TranslateToolName(elements[type].Name);
 	return "Empty";
 }
 

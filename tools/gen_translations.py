@@ -17,4 +17,14 @@ with open(os.path.join(root, 'src', 'common', 'TranslationsRu.cpp'), 'w', encodi
     for en, ru in rows:
         f.write('\t{ %s, %s },\n' % (esc(en), esc(ru)))
     f.write('};\nconst unsigned translationTableSize = %d;\n' % len(rows))
+    names = []
+    for line in open(os.path.join(root, 'translations', 'names_ru.tsv'), encoding='utf8'):
+        line = line.rstrip('\n')
+        if not line or line.startswith('#'):
+            continue
+        names.append(tuple(line.split('\t', 1)))
+    f.write('const TranslationEntry toolNameTable[] = {\n')
+    for en, ru in names:
+        f.write('\t{ %s, %s },\n' % (esc(en), esc(ru)))
+    f.write('};\nconst unsigned toolNameTableSize = %d;\n' % len(names))
 print(len(rows), 'entries')
